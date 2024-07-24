@@ -1,11 +1,19 @@
-<h1 align="center">Hi <img src="https://github.com/bazraprabek/bazraprabek/blob/main/icons/Hi.gif" width="28px"/>I'm Prabek Bir Bajracharya</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=bazraprabek&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Mern stack Developer
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+<h1 align="center">Hello, I'm Prabek Bir Bajracharya! 👋</h1>
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## 📫 Contact Me
+
+Feel free to reach out if you have any questions or want to collaborate!
+
+- Email: [bazraprabek@gmail.com](mailto:bazraprabek@gmail.com)
+- LinkedIn: [Prabek Bir Bajracharya](https://www.linkedin.com/in/prabek-bir-bajracharya-74966423b/)
+
+Thanks for visiting my profile! Have a great day! 😄
