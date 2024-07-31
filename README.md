@@ -1,6 +1,4 @@
-<h1 align="center">Hello, I'm Prabek Bir Bajracharya! 👋</h1>
-
-## 🛠️ Technologies & Tools
+<h1>Hello, I'm Prabek Bir Bajracharya! 👋</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
